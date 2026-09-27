@@ -78,6 +78,7 @@ td.domain-col, th.domain-col {
 }
 
 th.domain-col {
+  vertical-align: bottom;
   background: #f8f9fa;
   z-index: 2;
 }
