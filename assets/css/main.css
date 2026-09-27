@@ -51,8 +51,17 @@ th {
   font-weight: 600;
   font-size: 12px;
   color: #495057;
+}
+
+thead {
   position: sticky;
   top: 0;
+  z-index: 3;
+}
+
+th.group {
+  border-right-color: #dee2e6;
+  border-bottom-color: #dee2e6;
 }
 
 td.domain-col, th.domain-col {
