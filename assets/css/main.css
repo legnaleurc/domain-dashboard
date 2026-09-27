@@ -27,6 +27,8 @@ main {
 }
 
 .table-wrap {
+  width: fit-content;
+  max-width: 100%;
   overflow-x: auto;
   background: #fff;
   border: 1px solid #dee2e6;
